@@ -1,0 +1,57 @@
+{
+    "name": "TickSpot",
+    "description": "Tick\u00e2\u0080\u0099s straightforward time tracking software and mobile apps help you track your time and hit your budgets. Try it free for 30 days.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/499-tickspot.jpg",
+    "tags": [
+        "have api",
+        "projects",
+        "schedules"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/tickspot\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TickSpot",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/499-tickspot.jpg",
+            "humanURL": "http:\/\/www.tickspot.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/tickspot-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/*.tickspot.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.tickspot.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.tickspot.com\/rss"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.tickspot.com\/api"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/tickspot"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.tickspot.com\/"
+        }
+    ]
+}
